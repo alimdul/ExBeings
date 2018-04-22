@@ -6,7 +6,43 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d41a1f-fb13-4d70-868c-2264b4a1aa7a" name="Default" comment="" />
+    <list default="true" id="39d41a1f-fb13-4d70-868c-2264b4a1aa7a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/SuggestAlienCommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/jsp/user/alienType.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/jsp/user/alienTypeList.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/jsp/user/suggestion.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/CommandType.class" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/CommandType.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/LoginCommand.class" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/LoginCommand.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/ShowAlienCommand.class" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/ShowAlienCommand.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.class" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/by/pivovarevich/ex_beings/command/StartGuestPageCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/property/config.properties" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/WEB-INF/classes/property/config.properties" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/common/start.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/common/start.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/guest/alien.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/guest/alienType.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/guest/alienType.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/user/alien.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/user/alien.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/user/main.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExBeings_war_exploded/jsp/user/main.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/StartGuestPageCommand.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypesListCommand.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java" afterPath="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/property/config.properties" afterPath="$PROJECT_DIR$/src/main/resources/property/config.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/CommandType.class" afterPath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/CommandType.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/LoginCommand.class" afterPath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/LoginCommand.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/ShowAlienCommand.class" afterPath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/ShowAlienCommand.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.class" afterPath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/pivovarevich/ex_beings/command/StartGuestPageCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/property/config.properties" afterPath="$PROJECT_DIR$/target/classes/property/config.properties" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/common/start.jsp" afterPath="$PROJECT_DIR$/web/jsp/common/start.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/guest/alien.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/guest/alienType.jsp" afterPath="$PROJECT_DIR$/web/jsp/guest/alienType.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/user/alien.jsp" afterPath="$PROJECT_DIR$/web/jsp/user/alien.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/user/main.jsp" afterPath="$PROJECT_DIR$/web/jsp/user/main.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,33 +54,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/controller/Controller.java">
+      <file leaf-file-name="main.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jsp/user/main.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageRedirectSecurityFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/filter/PageRedirectSecurityFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="255">
+              <caret line="18" column="78" lean-forward="false" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EncodingFilter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/filter/EncodingFilter.java">
+      <file leaf-file-name="suggestion.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/jsp/user/suggestion.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -53,8 +77,8 @@
       <file leaf-file-name="CommandType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="236">
+              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,14 +86,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java">
+      <file leaf-file-name="SuggestAlienCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/SuggestAlienCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="68">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alien.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="111" column="49" lean-forward="true" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+              <folding>
+                <element signature="e#1380#1381#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
+                <element signature="e#1450#1451#0" expanded="true" />
+                <element signature="e#1482#1483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-544">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +130,7 @@
       <file leaf-file-name="LogoutCommand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LogoutCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="170">
               <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,11 +139,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisterCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/RegisterCommand.java">
+      <file leaf-file-name="ShowAlienTypesListCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypesListCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,43 +151,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowAlienCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java">
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jsp/common/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowAlienTypeCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java">
+      <file leaf-file-name="start.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jsp/common/start.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartGuestPageCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/StartGuestPageCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="83">
+              <caret line="7" column="74" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="74" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,7 +199,6 @@
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/connection/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/connection/ProxyConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/controller/Router.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/AlienType.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Entity.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/User.java" />
@@ -170,15 +214,28 @@
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/logic/AlienTypeLogic.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/logic/UserLogic.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LogoutCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/RegisterCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/StartGuestPageCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/controller/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/filter/PageRedirectSecurityFilter.java" />
+        <option value="$PROJECT_DIR$/web/jsp/user/alien.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowListOfAlienTypesCommand.java" />
+        <option value="$PROJECT_DIR$/web/jsp/common/start.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/property/config.properties" />
+        <option value="$PROJECT_DIR$/web/jsp/user/alienTypeList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java" />
+        <option value="$PROJECT_DIR$/web/jsp/guest/alien.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java" />
+        <option value="$PROJECT_DIR$/web/jsp/user/alienType.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypesListCommand.java" />
+        <option value="$PROJECT_DIR$/web/jsp/guest/alienType.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/user/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/SuggestAlienCommand.java" />
+        <option value="$PROJECT_DIR$/web/jsp/user/suggestion.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java" />
       </list>
     </option>
   </component>
@@ -273,9 +330,15 @@
               <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ex_beings" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExBeings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExBeings" type="b2602c69:ProjectViewProjectNode" />
@@ -287,6 +350,27 @@
               <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExBeings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExBeings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExBeings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExBeings" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,7 +390,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.11494253" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -499,15 +583,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524424698775</updated>
-      <workItem from="1524424701877" duration="2641000" />
+      <workItem from="1524424701877" duration="11320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2641000" />
+    <option name="totallyTimeSpent" value="11320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -519,14 +604,14 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2450658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1611842" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24013157" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20723684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -548,58 +633,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/filter/EncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/connection/ProxyConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/logic/AlienTypeLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/tag/InfoTimeTag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/logic/UserLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/logic/AlienLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/extraterrestrial_beings/command/ActionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,14 +672,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/user/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -704,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/AlienType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -721,14 +752,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
@@ -748,14 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/property/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -836,80 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LogoutCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/RegisterCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/StartGuestPageCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -936,8 +881,217 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/filter/EncodingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/admin/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/property/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/property/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/user/alienType.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/guest/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="51" column="66" lean-forward="false" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/guest/alien.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/guest/alienType.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/user/alien.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/user/alienTypeList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/common/start.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="7" column="74" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/user/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="78" lean-forward="false" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/common/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/ShowAlienTypesListCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/CommandType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/LogoutCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/command/SuggestAlienCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pivovarevich/ex_beings/entity/Alien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="111" column="49" lean-forward="true" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+          <folding>
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/user/suggestion.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding />
         </state>
       </provider>

@@ -16,7 +16,7 @@
     <br>
     Войти как гость <br>
     <form name="showInformationForGuestForm" method="post" action="/controller">
-        <input type="hidden" name="command" value="info_for_guest"/>
+        <input type="hidden" name="command" value="show_alien_types_list"/>
         <input type="submit" value="Войти как гость"/>
     </form>
 </body>

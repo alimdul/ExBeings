@@ -9,9 +9,10 @@ public enum CommandType {
     LOGIN(new LoginCommand(new UserLogic())),
     REGISTER(new RegisterCommand(new UserLogic())),
     LOGOUT(new LogoutCommand()),
-    INFO_FOR_GUEST(new StartGuestPageCommand(new AlienTypeLogic())),
+    SHOW_ALIEN_TYPES_LIST(new ShowAlienTypesListCommand(new AlienTypeLogic())),
     SHOW_ALIEN(new ShowAlienCommand(new AlienLogic())),
-    SHOW_ALIEN_TYPE(new ShowAlienTypeCommand(new AlienTypeLogic()));
+    SHOW_ALIEN_TYPE(new ShowAlienTypeCommand(new AlienTypeLogic())),
+    SUGGEST(new SuggestAlienCommand(new AlienLogic()));
 
     private Command command;
 

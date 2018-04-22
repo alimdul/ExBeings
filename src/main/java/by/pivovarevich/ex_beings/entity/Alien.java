@@ -12,6 +12,7 @@ public class Alien implements Entity, Serializable {
     private String dangers;
     private String appearance;
     private String feature;
+    private AlienType type;
     //picture
 
     public int getId() {
@@ -70,6 +71,14 @@ public class Alien implements Entity, Serializable {
         this.feature = feature;
     }
 
+    public AlienType getType() {
+        return type;
+    }
+
+    public void setType(AlienType type) {
+        this.type = type;
+    }
+
     @Override
     public int hashCode() {
         final int prime = 37;
@@ -82,6 +91,7 @@ public class Alien implements Entity, Serializable {
         result = result * prime + ((dangers == null) ? 0 : dangers.hashCode());
         result = result * prime + ((appearance == null) ? 0 : appearance.hashCode());
         result = result * prime + ((feature == null) ? 0 : feature.hashCode());
+        result = result * prime + ((type == null) ? 0 : type.hashCode());
         //picture
 
         return result;
@@ -98,7 +108,8 @@ public class Alien implements Entity, Serializable {
                 Objects.equals(food, alien.food) &&
                 Objects.equals(dangers, alien.dangers) &&
                 Objects.equals(appearance, alien.appearance) &&
-                Objects.equals(feature, alien.feature);
+                Objects.equals(feature, alien.feature) &&
+                Objects.equals(type, alien.type);
         //picture
     }
 
@@ -112,6 +123,7 @@ public class Alien implements Entity, Serializable {
                 ", dangers=" + dangers +
                 ", appearance=" + appearance +
                 ", feature=" + feature +
+                ", type=" + type.toString() +
                 '}';
     }
 }

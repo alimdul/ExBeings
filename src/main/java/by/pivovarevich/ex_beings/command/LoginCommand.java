@@ -44,10 +44,12 @@ public class LoginCommand implements Command {
             if(user != null) {
                 switch (logic.authorization(user)) {
                     case "admin":
+                        session.setAttribute("authorise", "true");
                         session.setAttribute("role", "admin");
                         router.setPagePath(configResourceBundle.getString(PATH_ADMIN_MAIN_PAGE));
                         break;
                     case "user":
+                        session.setAttribute("authorise", "true");
                         session.setAttribute("role", "user");
                         router.setPagePath(configResourceBundle.getString(PATH_USER_MAIN_PAGE));
                         break;
